@@ -1,45 +1,47 @@
-👨‍💻 ¡Hola! Soy Desarrollador de Software
+👨‍💻 Hello! I am a Software Developer
 
-🎂 21 años
-🎓 Estudiante de Ingeniería de Sistemas
-🎓 Tecnólogo en Análisis y Desarrollo de Software
-💼 Actualmente en entrenamiento como Desarrollador de Software
+🎂 21 years old
+🎓 Systems Engineering Student
+🎓 Technologist in Software Analysis and Development
+💼 Currently training as a Software Developer
 
-🚀 Sobre mí
+🚀 About me
 
-Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Me especializo en el desarrollo backend con Java y Spring Boot, construyendo aplicaciones robustas, escalables y bien estructuradas.
+I am a developer who is passionate about technology and continuous learning. I specialize in backend development with Java and Spring Boot, building robust, scalable, and well-structured applications.
 
-Me gusta enfrentar nuevos retos, mejorar mis habilidades cada día y trabajar en soluciones que generen impacto real.
+I enjoy taking on new challenges, improving my skills every day, and working on solutions that have a real impact.
 
-🛠️ Tecnologías y Herramientas
+🛠️ Technologies and Tools
 
 ☕ Java
 
 🌱 Spring Boot
 
-🗄️ SQL & Bases de Datos Relacionales
+🗄️ SQL & Relational Databases
 
-🔗 APIs REST
+🔗 REST APIs
 
-🧠 Programación Orientada a Objetos
+🧠 Object-Oriented Programming
 
 🧰 Git & GitHub
 
-📚 Actualmente
+📚 Currently
 
-🎓 Estudiando Ingeniería de Sistemas
+🎓 Studying Systems Engineering
 
-💼 En entrenamiento como desarrollador
+💼 Training as a developer
 
-📖 Profundizando en buenas prácticas, arquitectura limpia y desarrollo backend profesional
+📖 Deepening my knowledge of best practices, clean architecture, and professional backend development
 
-🎬 Un poco más sobre mí
+🎬 A little more about me
 
-Además del código, soy fan del universo de Marvel Cinematic Universe.
-Mis películas favoritas incluyen:
+Besides coding, I'm a fan of the Marvel Cinematic Universe.
+My favorite movies include:
 
 🦸‍♂️ Avengers: Endgame
 
 🕷️ Spider-Man: No Way Home
 
 🛡️ Captain America: The Winter Soldier
+
+Translated with DeepL.com (free version)
