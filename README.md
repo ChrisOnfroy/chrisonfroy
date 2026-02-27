@@ -1,5 +1,5 @@
 ## **👨‍💻 Hello! I am a Software Developer**
-
+My name is Cristian Morales and..
 🎂 21 years old
 🎓 Systems Engineering Student
 🎓 Technologist in Software Analysis and Development
@@ -32,10 +32,9 @@ I enjoy taking on new challenges, improving my skills every day, and working on 
 Besides coding, I'm a fan of the Marvel Cinematic Universe.
 My favorite movies include:
 
-🦸‍♂️ Avengers: Endgame
+ - 🦸‍♂️ Avengers: Endgame
+ - 🕷️ Spider-Man: No Way Home
+ - 🛡️ Captain America: The Winter Soldier
 
-🕷️ Spider-Man: No Way Home
-
-🛡️ Captain America: The Winter Soldier
 
 
