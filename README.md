@@ -1,16 +1,45 @@
-## Hi there 👋
+👨‍💻 ¡Hola! Soy Desarrollador de Software
 
-<!--
-**ChrisOnfroy/chrisonfroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 21 años
+🎓 Estudiante de Ingeniería de Sistemas
+🎓 Tecnólogo en Análisis y Desarrollo de Software
+💼 Actualmente en entrenamiento como Desarrollador de Software
 
-Here are some ideas to get you started:
+🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Me especializo en el desarrollo backend con Java y Spring Boot, construyendo aplicaciones robustas, escalables y bien estructuradas.
+
+Me gusta enfrentar nuevos retos, mejorar mis habilidades cada día y trabajar en soluciones que generen impacto real.
+
+🛠️ Tecnologías y Herramientas
+
+☕ Java
+
+🌱 Spring Boot
+
+🗄️ SQL & Bases de Datos Relacionales
+
+🔗 APIs REST
+
+🧠 Programación Orientada a Objetos
+
+🧰 Git & GitHub
+
+📚 Actualmente
+
+🎓 Estudiando Ingeniería de Sistemas
+
+💼 En entrenamiento como desarrollador
+
+📖 Profundizando en buenas prácticas, arquitectura limpia y desarrollo backend profesional
+
+🎬 Un poco más sobre mí
+
+Además del código, soy fan del universo de Marvel Cinematic Universe.
+Mis películas favoritas incluyen:
+
+🦸‍♂️ Avengers: Endgame
+
+🕷️ Spider-Man: No Way Home
+
+🛡️ Captain America: The Winter Soldier
