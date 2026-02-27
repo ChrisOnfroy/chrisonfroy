@@ -24,8 +24,8 @@ I enjoy taking on new challenges, improving my skills every day, and working on 
 
  - 🎓 Studying Systems Engineering
  - 💼 Training as a developer
-
-📖 Deepening my knowledge of best practices, clean architecture, and professional backend development
+ - 📖 Deepening my knowledge of best practices, clean architecture, and
+   professional backend development
 
 ## 🎬 A little more about me
 
@@ -35,6 +35,5 @@ My favorite movies include:
  - 🦸‍♂️ Avengers: Endgame
  - 🕷️ Spider-Man: No Way Home
  - 🛡️ Captain America: The Winter Soldier
-
 
 
