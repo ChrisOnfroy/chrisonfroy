@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristian Morales
+#  Hi, I'm Cristian Morales
 
 **Backend Software Developer · .NET · Cloud & Clean Architecture**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About me
+##  About me
 
 I'm a backend developer who enjoys turning complex requirements into clear, well-structured solutions. I care about code quality, separation of concerns, and building software that's easy to test, evolve and maintain.
 
@@ -17,7 +17,7 @@ I'm a backend developer who enjoys turning complex requirements into clear, well
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
@@ -37,7 +37,7 @@ I'm a backend developer who enjoys turning complex requirements into clear, well
 
 ---
 
-## 📚 Currently
+## Currently
 
 - ☁️ Learning **Azure** (App Service, Azure SQL, DevOps pipelines)
 - 🎓 Studying **Systems Engineering**
@@ -45,20 +45,20 @@ I'm a backend developer who enjoys turning complex requirements into clear, well
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - **[SkillHUB](https://github.com/ChrisOnfroy/FirmezaProyecto.Backend.git)** — .NET, Clean Architecture, Docker, SQL.
 - **[EMOTIANS](https://github.com/ChrisOnfroy/Detectoor-Emotions)** — python - flask - CDNS 
 
 ---
 
-## 🎬 Beyond code
+##  Beyond code
 
 I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spider-Man: No Way Home* and *Captain America: The Winter Soldier*.
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 - 💼 LinkedIn:https://www.linkedin.com/in/cristian-alberto-morales-avenda%C3%B1o-a902b41b1/
 - 📧 Email: cmoralesavendano6@gmail.com
