@@ -1,39 +1,68 @@
-## **👨‍💻 Hello! I am a Software Developer**
-My name is Cristian Morales and..
-🎂 21 years old
-🎓 Systems Engineering Student
-🎓 Technologist in Software Analysis and Development
-💼 Currently training as a Software Developer
+# 👋 Hi, I'm Cristian Morales
 
-## **🚀 About me**
+**Backend Software Developer · .NET · Cloud & Clean Architecture**
 
-I am a developer who is passionate about technology and continuous learning. I specialize in backend development with Java and Spring Boot, building robust, scalable, and well-structured applications.
+Mid-level .NET developer and Systems Engineering student. I design and build robust, scalable and maintainable backend systems, with a focus on clean architecture, well-designed REST APIs, and containerized deployments.
 
-I enjoy taking on new challenges, improving my skills every day, and working on solutions that have a real impact.
+---
 
-## 🛠️ Technologies and Tools
+## 🚀 About me
 
- - ☕ Java
- - 🌱 Spring Boot
- - 🗄️ SQL & Relational Databases
- - 🔗 REST APIs
- - 🧠 Object-Oriented Programming
- - 🧰 Git & GitHub
+I'm a backend developer who enjoys turning complex requirements into clear, well-structured solutions. I care about code quality, separation of concerns, and building software that's easy to test, evolve and maintain.
+
+- 🏗️ I apply **Clean Architecture** and SOLID principles in my projects
+- 🔗 I design and build **RESTful APIs** with clear contracts and consistent conventions
+- 🐳 I containerize applications with **Docker** for reproducible environments
+- ☁️ I'm currently learning **Microsoft Azure** to take my solutions to the cloud
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Data**
+![SQL Server](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) *(learning)*
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+**Practices:** Clean Architecture · SOLID · OOP · REST API design · Version control
+
+---
 
 ## 📚 Currently
 
- - 🎓 Studying Systems Engineering
- - 💼 Training as a developer
- - 📖 Deepening my knowledge of best practices, clean architecture, and
-   professional backend development
+- ☁️ Learning **Azure** (App Service, Azure SQL, DevOps pipelines)
+- 🎓 Studying **Systems Engineering**
+- 📖 Deepening my knowledge of software architecture, testing, and CI/CD
 
-## 🎬 A little more about me
+---
 
-Besides coding, I'm a fan of the Marvel Cinematic Universe.
-My favorite movies include:
+## 📂 Featured Projects
 
- - 🦸‍♂️ Avengers: Endgame
- - 🕷️ Spider-Man: No Way Home
- - 🛡️ Captain America: The Winter Soldier
+> Add 2–3 of your best repos here. Example format:
+
+- **[SkillHUB](https://github.com/ChrisOnfroy/FirmezaProyecto.Backend.git)** — Short description of what it does and why it matters. *Stack: .NET, Clean Architecture, Docker, SQL.*
+- [**[EMOTIANS](https://github.com/ChrisOnfroy/Detectoor-Emotions)** — python - flask - CDNS ]
+
+---
+
+## 🎬 Beyond code
+
+I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spider-Man: No Way Home* and *Captain America: The Winter Soldier*.
+
+---
+
+## 📫 Let's connect
+
+- 💼 LinkedIn:https://www.linkedin.com/in/cristian-alberto-morales-avenda%C3%B1o-a902b41b1/
+- 📧 Email: cmoralesavendano6@gmail.com
 
 
