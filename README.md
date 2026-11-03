@@ -2,7 +2,7 @@
 
 **Backend Software Developer · .NET · Cloud & Clean Architecture**
 
-Mid-level .NET developer and Systems Engineering student. I design and build robust, scalable and maintainable backend systems, with a focus on clean architecture, well-designed REST APIs, and containerized deployments.
+ .NET developer and Systems Engineering student. I design and build robust, scalable and maintainable backend systems, with a focus on clean architecture, well-designed REST APIs, and containerized deployments.
 
 ---
 
@@ -46,8 +46,6 @@ I'm a backend developer who enjoys turning complex requirements into clear, well
 ---
 
 ## 📂 Featured Projects
-
-> Add 2–3 of your best repos here. Example format:
 
 - **[SkillHUB](https://github.com/ChrisOnfroy/FirmezaProyecto.Backend.git)** — .NET, Clean Architecture, Docker, SQL.
 - **[EMOTIANS](https://github.com/ChrisOnfroy/Detectoor-Emotions)** — python - flask - CDNS 
