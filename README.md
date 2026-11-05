@@ -48,7 +48,7 @@ I'm a backend developer who enjoys turning complex requirements into clear, well
 ##  Featured Projects
 
 - **[SkillHUB](https://github.com/ChrisOnfroy/FirmezaProyecto.Backend.git)** — .NET, Clean Architecture, Docker, SQL.
-- **[EMOTIANS](https://github.com/ChrisOnfroy/Detectoor-Emotions)** — python - flask - CDNS 
+- **[EMOTIANS](https://github.com/ChrisOnfroy/Detectoor-Emotions)** — python - flask - Neuronal red - CNN 
 
 ---
 
