@@ -83,12 +83,13 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
     </td>
   </tr>
 </table>
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square&labelColor=0EA5E9)
-![SOLID](https://img.shields.io/badge/SOLID-0F172A?style=flat-square&labelColor=0EA5E9)
-![OOP](https://img.shields.io/badge/OOP-0F172A?style=flat-square&labelColor=0EA5E9)
-![REST API design](https://img.shields.io/badge/REST_API_design-0F172A?style=flat-square&labelColor=0EA5E9)
-![Version control](https://img.shields.io/badge/Version_control-0F172A?style=flat-square&labelColor=0EA5E9)
- 
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square&labelColor=0EA5E9" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/SOLID-0F172A?style=flat-square&labelColor=0EA5E9" alt="SOLID" />
+  <img src="https://img.shields.io/badge/OOP-0F172A?style=flat-square&labelColor=0EA5E9" alt="OOP" />
+  <img src="https://img.shields.io/badge/REST_API_design-0F172A?style=flat-square&labelColor=0EA5E9" alt="REST API design" />
+  <img src="https://img.shields.io/badge/Version_control-0F172A?style=flat-square&labelColor=0EA5E9" alt="Version control" />
+</p>
 ---
  
 ## Currently
