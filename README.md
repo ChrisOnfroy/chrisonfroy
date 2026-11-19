@@ -11,7 +11,7 @@
  
 </div>
 <br/>
-> Full Stack developer and Systems Engineering student. I design and build robust, scalable and maintainable systems, from well-designed REST APIs and clean architecture on the backend to modern React interfaces on the frontend, with containerized deployments.
+Full Stack developer and Systems Engineering student. I design and build robust, scalable and maintainable systems, from well-designed REST APIs and clean architecture on the backend to modern React interfaces on the frontend, with containerized deployments.
  
 ---
  
