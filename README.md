@@ -118,7 +118,7 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ChrisOnfroy/Detectoor-Emotions">EMOTIANS</a></h3>
+      <h3><a href="https://github.com/ChrisOnfroy/Detectoor-Emotions](https://github.com/ChrisOnfroy/Emotians.git">EMOTIANS</a></h3>
       <p>Facial emotion detection with a convolutional neural network (CNN).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=0EA5E9" alt="Python" />
