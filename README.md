@@ -12,8 +12,6 @@
 <br/>
 Full Stack developer and Systems Engineering student. I design and build robust, scalable and maintainable systems, from well-designed REST APIs and clean architecture on the backend to modern React interfaces on the frontend.
  
----
- 
 ## About me
  
 I'm a developer who enjoys turning complex requirements into clear, well-structured solutions. I care about code quality, separation of concerns, and building software that's easy to test, evolve and maintain.
@@ -41,8 +39,6 @@ I'm a developer who enjoys turning complex requirements into clear, well-structu
   </tr>
 </table>
 I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
- 
----
  
 ## Tech Stack
  
@@ -89,7 +85,6 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
   <img src="https://img.shields.io/badge/REST_API_design-0F172A?style=flat-square&labelColor=0EA5E9" alt="REST API design" />
   <img src="https://img.shields.io/badge/Version_control-0F172A?style=flat-square&labelColor=0EA5E9" alt="Version control" />
 </p>
----
  
 ## Currently
  
@@ -100,7 +95,6 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
     <td width="33%" valign="top"><b>Software craft</b><br/><sub>Software architecture, testing and CI/CD.</sub></td>
   </tr>
 </table>
----
  
 ## Featured Projects
  
@@ -128,22 +122,18 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
     </td>
   </tr>
 </table>
----
  
 ## GitHub activity
  
 <div align="center">
-  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&commits_year=2026&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&commits_year=2025&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub Stats" />
    
   <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" alt="Top Languages" />
 </div>
----
  
 ## Beyond code
  
 I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spider-Man: No Way Home* and *Captain America: The Winter Soldier*.
- 
----
  
 ## Let's connect
  
