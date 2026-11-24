@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Cristian%20Morales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20.NET%20%C2%B7%20React%20%C2%B7%20Clean%20Architecture&descSize=18&descAlignY=62" alt="Cristian Morales - Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Cristian%20Morales&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Frontend%20%E2%80%A2%20Cloud&descSize=18&descAlignY=56&descAlign=50" alt="Header" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;ASP.NET+Core+%C2%B7+React+%C2%B7+TypeScript;Clean+Architecture+%C2%B7+REST+APIs+%C2%B7+Docker;Learning+Microsoft+Azure" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;ASP.NET+Core+and+React;Clean+Architecture+and+SOLID" alt="Typing SVG" />
 </a>
 <br/><br/>
  
@@ -11,7 +11,7 @@
  
 </div>
 <br/>
-Full Stack developer and Systems Engineering student. I design and build robust, scalable and maintainable systems, from well-designed REST APIs and clean architecture on the backend to modern React interfaces on the frontend, with containerized deployments.
+Full Stack developer and Systems Engineering student. I design and build robust, scalable and maintainable systems, from well-designed REST APIs and clean architecture on the backend to modern React interfaces on the frontend.
  
 ---
  
@@ -134,8 +134,8 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
 ## GitHub activity
  
 <div align="center">
-  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub Stats" />
+   
   <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" alt="Top Languages" />
 </div>
 ---
@@ -154,6 +154,7 @@ I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spi
  
 <br/><br/>
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" alt="Footer" />
 </div>
  
+
