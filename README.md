@@ -134,8 +134,9 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
 ## GitHub activity
  
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisOnfroy&show_icons=true&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" alt="Top languages" />
+  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" alt="Top Languages" />
 </div>
 ---
  
