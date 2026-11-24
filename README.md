@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;ASP.NET+Core+and+React;Clean+Architecture+and+SOLID" alt="Typing SVG" />
 </a>
-<br/><br/>
- 
+<br/><br/> 
 <a href="https://www.linkedin.com/in/cristian-alberto-morales-avenda%C3%B1o-a902b41b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:cmoralesavendano6@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" /></a>
 <a href="https://github.com/ChrisOnfroy?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=0EA5E9" alt="Repositories" /></a>
@@ -134,7 +133,7 @@ I'm currently learning **Microsoft Azure** to take my solutions to the cloud.
 ## GitHub activity
  
 <div align="center">
-  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&commits_year=2026&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=CBD5E1&ring_color=0EA5E9" alt="GitHub Stats" />
    
   <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&count_private=true&bg_color=0F172A&title_color=0EA5E9&text_color=CBD5E1" alt="Top Languages" />
 </div>
@@ -152,8 +151,7 @@ I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spi
 <a href="https://www.linkedin.com/in/cristian-alberto-morales-avenda%C3%B1o-a902b41b1/"><img src="https://img.shields.io/badge/LinkedIn-Cristian_Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:cmoralesavendano6@gmail.com"><img src="https://img.shields.io/badge/cmoralesavendano6%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" /></a>
  
-<br/><br/>
- 
+<br/><br/> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" alt="Footer" />
 </div>
  
