@@ -91,43 +91,40 @@ I'm a Full Stack developer and Systems Engineering student. I enjoy turning comp
 
 ## 🧰 My toolbox
 
-<table>
-  <tr>
-    <td width="170"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring&perline=10" alt="C#, .NET, Java, Spring" /><br/>
-      <sub>ASP.NET Core Web API · Entity Framework Core · LINQ · Spring Boot · JWT · Swagger / OpenAPI · xUnit</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="170"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&perline=10" alt="React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS" /><br/>
-      <sub>React Hooks · React Router · Context API · Responsive design</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="170"><b>Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10" alt="PostgreSQL, MySQL" /><br/>
-      <sub>Relational modeling · Stored procedures · ACID transactions · Query optimization</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="170"><b>DevOps and Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,azure,git,github,githubactions,linux&perline=10" alt="Docker, Azure, Git, GitHub, GitHub Actions, Linux" /><br/>
-      <sub>Azure is a work in progress: App Service, Entra ID, DevOps pipelines</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="170"><b>AI and Computer Vision</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,flask&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Flask" /><br/>
-      <sub>Facial expression recognition · Real-time video processing</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/toolbox-backend.svg" alt="Backend: ASP.NET Core Web API · Entity Framework Core · LINQ · JWT · Swagger · xUnit" width="840" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=10" alt="C#, .NET" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="assets/toolbox-frontend.svg" alt="Frontend: React Hooks · React Router · Context API · Responsive design" width="840" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&perline=10" alt="React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="assets/toolbox-data.svg" alt="Data: Relational modeling · Stored procedures · ACID transactions · Query optimization" width="840" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10" alt="PostgreSQL, MySQL" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="assets/toolbox-devops.svg" alt="DevOps and Cloud: App Service · Entra ID · DevOps pipelines · Containers" width="840" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,githubactions,linux&perline=10" alt="Docker, Azure, Git, GitHub, GitHub Actions, Linux" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="assets/toolbox-ai.svg" alt="AI and Computer Vision: Facial expression recognition · Real-time video processing" width="840" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,flask&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Flask" />
+</div>
+<br/>
 
 ## 📈 GitHub activity
 
