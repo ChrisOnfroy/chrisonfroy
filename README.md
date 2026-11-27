@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Welcome to my profile. Cristian Morales, Full Stack Developer" width="100%" />
+<img src="assets/banner-v2.svg" alt="Welcome to my profile. Cristian Morales, Full Stack Developer" width="100%" />
 
 <br/><br/>
 
@@ -22,66 +22,66 @@
 </div>
 
 <div align="center">
-  <img src="assets/about-me.svg" alt="Who I am: I&#x27;m a Full Stack developer and Systems Engineering student. I enjoy turning complex requirements into clear, well-structured software: clean REST APIs on the backend and friendly React interfaces on the frontend." width="840" />
+  <img src="assets/about-me-v2.svg" alt="Who I am: I&#x27;m a Full Stack developer and Systems Engineering student. I enjoy turning complex requirements into clear, well-structured software: clean REST APIs on the backend and friendly React interfaces on the frontend." width="840" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="assets/about-build.svg" alt="How I build: Clean Architecture, SOLID and code that is easy to test and maintain." width="840" />
+  <img src="assets/about-build-v2.svg" alt="How I build: Clean Architecture, SOLID and code that is easy to test and maintain." width="840" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="assets/about-learning.svg" alt="What I&#x27;m learning: Microsoft Azure: App Service, Azure SQL and DevOps pipelines. Also testing and CI/CD." width="840" />
+  <img src="assets/about-learning-v2.svg" alt="What I&#x27;m learning: Microsoft Azure: App Service, Azure SQL and DevOps pipelines. Also testing and CI/CD." width="840" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="assets/about-study.svg" alt="Where I study: Systems Engineering at Unisalamanca and the Backend Development specialization at Riwi." width="840" />
+  <img src="assets/about-study-v2.svg" alt="Where I study: Systems Engineering at Unisalamanca and the Backend Development specialization at Riwi." width="840" />
 </div>
 <br/>
 
 ## Projects
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><img src="assets/project-proyectandtask.svg" alt="Proyectandtask: Project and task management API. Each user sees only their own work and can track progress per project. Includes unit and integration tests, plus a GitHub Actions pipeline to Azure. (.NET 10, PostgreSQL, JWT, xUnit, Testcontainers)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><img src="assets/project-proyectandtask-v2.svg" alt="Proyectandtask: Project and task management API. Each user sees only their own work and can track progress per project. Includes unit and integration tests, plus a GitHub Actions pipeline to Azure. (.NET 10, PostgreSQL, JWT, xUnit, Testcontainers)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><b>View code</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><img src="assets/project-skillhub.svg" alt="SkillHub: Enrollment platform for in-person workshops: capacity limits, schedule overlap checks, bulk Excel enrollment and PDF certificates. (.NET 10, Clean Architecture, DDD, React, TypeScript)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><img src="assets/project-skillhub-v2.svg" alt="SkillHub: Enrollment platform for in-person workshops: capacity limits, schedule overlap checks, bulk Excel enrollment and PDF certificates. (.NET 10, Clean Architecture, DDD, React, TypeScript)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><b>Backend →</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/skillhub.Frontend"><b>Frontend →</b></a>
+  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><b>Backend</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/skillhub.Frontend"><b>Frontend</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><img src="assets/project-canchero.svg" alt="Canchero: API to find sports fields, manage venues and handle bookings, with role-based access and location search through OpenStreetMap. (.NET 10, EF Core, PostgreSQL, Identity + JWT)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><img src="assets/project-canchero-v2.svg" alt="Canchero: API to find sports fields, manage venues and handle bookings, with role-based access and location search through OpenStreetMap. (.NET 10, EF Core, PostgreSQL, Identity + JWT)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><b>View code</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><img src="assets/project-firmeza.svg" alt="Firmeza: Sales and inventory API with a customer storefront: product catalog, shopping cart, stock control and email receipts. (.NET 10, React 19, Tailwind CSS, Docker)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><img src="assets/project-firmeza-v2.svg" alt="Firmeza: Sales and inventory API with a customer storefront: product catalog, shopping cart, stock control and email receipts. (.NET 10, React 19, Tailwind CSS, Docker)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><b>Backend →</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Frontend"><b>Frontend →</b></a>
+  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><b>Backend</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Frontend"><b>Frontend</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><img src="assets/project-taskapi.svg" alt="TaskApi: Task API with a rich domain model, designed for Azure App Service and Azure SQL using Managed Identity, so the database needs no stored password in Azure. (.NET 10, Azure, Entra ID, FluentValidation)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><img src="assets/project-taskapi-v2.svg" alt="TaskApi: Task API with a rich domain model, designed for Azure App Service and Azure SQL using Managed Identity, so the database needs no stored password in Azure. (.NET 10, Azure, Entra ID, FluentValidation)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><b>View code</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/Emotians"><img src="assets/project-emotians.svg" alt="Emotians: Real-time facial expression recognition from a webcam, with models trained from scratch and a web API. Built with Juan Benavides. (Python, PyTorch, OpenCV, FastAPI)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/Emotians"><img src="assets/project-emotians-v2.svg" alt="Emotians: Real-time facial expression recognition from a webcam, with models trained from scratch and a web API. Built with Juan Benavides. (Python, PyTorch, OpenCV, FastAPI)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/Emotians"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/Emotians"><b>View code</b></a>
 </div>
 <br/>
 
@@ -90,21 +90,21 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/myC-API"><img src="assets/project-myapp.svg" alt="MyApp API: Customers, products and categories with Clean Architecture and tactical DDD. (C#, .NET, EF Core)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/myC-API"><img src="assets/project-myapp-v2.svg" alt="MyApp API: Customers, products and categories with Clean Architecture and tactical DDD. (C#, .NET, EF Core)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/myC-API"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/myC-API"><b>View code</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/La-Cooperativa-Financiera-El-Progreso"><img src="assets/project-cajeroc.svg" alt="CajeroC: Console app for cooperative members, savings and reports. (C#, .NET, LINQ)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/La-Cooperativa-Financiera-El-Progreso"><img src="assets/project-cajeroc-v2.svg" alt="CajeroC: Console app for cooperative members, savings and reports. (C#, .NET, LINQ)" width="840" /></a>
   <br/>
-  <a href="https://github.com/ChrisOnfroy/La-Cooperativa-Financiera-El-Progreso"><b>View code →</b></a>
+  <a href="https://github.com/ChrisOnfroy/La-Cooperativa-Financiera-El-Progreso"><b>View code</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/?tab=repositories">See all my repositories →</a>
+  <a href="https://github.com/ChrisOnfroy/?tab=repositories">See all my repositories</a>
 </div>
 
 </details>
