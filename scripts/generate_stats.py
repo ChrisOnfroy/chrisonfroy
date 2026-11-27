@@ -8,7 +8,11 @@ from html import escape
 QUERY = """
 query($login: String!, $cursor: String) {
   user(login: $login) {
+    followers { totalCount }
+    pullRequests { totalCount }
+    issues { totalCount }
     contributionsCollection {
+      totalPullRequestReviewContributions
       totalCommitContributions
       totalPullRequestContributions
       contributionCalendar { totalContributions }
@@ -51,6 +55,33 @@ def fetch(login, token):
         cursor = page["pageInfo"]["endCursor"]
 
 
+def calculate_rank(commits, prs, issues, reviews, stars, followers):
+    """Fórmula de github-readme-stats (MIT, (c) 2020 Anurag Hazra), con los commits del último año.
+
+    Devuelve la letra y el percentil (menor es mejor).
+    """
+
+    def exponential(x):
+        return 1 - 2**-x
+
+    def log_normal(x):
+        return x / (1 + x)
+
+    weighted = (
+        2 * exponential(commits / 250)
+        + 3 * exponential(prs / 50)
+        + 1 * exponential(issues / 25)
+        + 1 * exponential(reviews / 2)
+        + 4 * log_normal(stars / 50)
+        + 1 * log_normal(followers / 10)
+    )
+    percentile = (1 - weighted / 12) * 100
+    thresholds = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100]
+    levels = ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"]
+    level = next(name for limit, name in zip(thresholds, levels) if percentile <= limit)
+    return level, percentile
+
+
 def card(title, height, content):
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="{height}" viewBox="0 0 420 {height}" '
@@ -62,17 +93,34 @@ def card(title, height, content):
 
 def activity_card(user, repos):
     year = user["contributionsCollection"]
+    stars = sum(repo["stargazerCount"] for repo in repos)
+    level, percentile = calculate_rank(
+        year["totalCommitContributions"],
+        user["pullRequests"]["totalCount"],  # la fórmula original usa los PR históricos
+        user["issues"]["totalCount"],
+        year["totalPullRequestReviewContributions"],
+        stars,
+        user["followers"]["totalCount"],
+    )
     rows = [
         ("Contributions (last year)", year["contributionCalendar"]["totalContributions"]),
         ("Commits (last year)", year["totalCommitContributions"]),
         ("Pull requests (last year)", year["totalPullRequestContributions"]),
         ("Public repositories", user["repositories"]["totalCount"]),
-        ("Stars received", sum(repo["stargazerCount"] for repo in repos)),
+        ("Stars received", stars),
     ]
     content = "".join(
         f'<text x="24" y="{72 + i * 27}" font-size="14" fill="#FFE8C7">{label}</text>'
-        f'<text x="396" y="{72 + i * 27}" font-size="14" font-weight="700" text-anchor="end" fill="#FFF6EA">{value:,}</text>'
+        f'<text x="270" y="{72 + i * 27}" font-size="14" font-weight="700" text-anchor="end" fill="#FFF6EA">{value:,}</text>'
         for i, (label, value) in enumerate(rows)
+    )
+    # Anillo de la calificación: 2 * pi * 44 = 276.46
+    filled = 276.46 * (100 - percentile) / 100
+    content += (
+        '<circle cx="345" cy="112" r="44" fill="none" stroke="#49294A" stroke-width="8"/>'
+        '<circle cx="345" cy="112" r="44" fill="none" stroke="#F6B26B" stroke-width="8" stroke-linecap="round" '
+        f'stroke-dasharray="{filled:.1f} 276.46" transform="rotate(-90 345 112)"/>'
+        f'<text x="345" y="122" font-size="28" font-weight="700" text-anchor="middle" fill="#FFF6EA">{level}</text>'
     )
     return card("GitHub activity", 200, content)
 
