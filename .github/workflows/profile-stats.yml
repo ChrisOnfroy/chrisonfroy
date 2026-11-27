@@ -26,7 +26,7 @@ jobs:
         run: python3 scripts/generate_stats.py
         env:
           GITHUB_LOGIN: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
 
       # La rama "stats" se reescribe en cada ejecución. Como no es la rama principal,
       # estos commits no cuentan en el gráfico de contribuciones.
