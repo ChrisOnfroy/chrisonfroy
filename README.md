@@ -132,11 +132,10 @@ I'm a Full Stack developer and Systems Engineering student. I enjoy turning comp
 ## 📈 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api?username=ChrisOnfroy&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&commits_year=2025&bg_color=231A33&title_color=F6B26B&icon_color=F6B26B&text_color=FFE8C7&ring_color=F6B26B" alt="GitHub Stats" />
-   
-  <img src="https://github-readme-stats-seven-smoky-28.vercel.app/api/top-langs/?username=ChrisOnfroy&layout=compact&hide_border=true&count_private=true&bg_color=231A33&title_color=F6B26B&text_color=FFE8C7" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ChrisOnfroy/chrisonfroy/stats/activity.svg" alt="GitHub activity" width="420" />
+  <img src="https://raw.githubusercontent.com/ChrisOnfroy/chrisonfroy/stats/languages.svg" alt="Languages in public repos" width="420" />
 </div>
- 
+
 ## 🍿 Beyond code
 
 I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spider-Man: No Way Home* and *Captain America: The Winter Soldier*. Tell me yours!

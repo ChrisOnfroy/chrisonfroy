@@ -1,0 +1,43 @@
+name: Profile stats
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_stats.py
+      - .github/workflows/profile-stats.yml
+  schedule:
+    - cron: "17 10 * * *" # 5:17 a. m. en Colombia
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        run: python3 scripts/generate_stats.py
+        env:
+          GITHUB_LOGIN: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ github.token }}
+
+      # La rama "stats" se reescribe en cada ejecución. Como no es la rama principal,
+      # estos commits no cuentan en el gráfico de contribuciones.
+      - name: Publish to the stats branch
+        working-directory: dist
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          git init -q -b stats
+          git config user.name "Cristian Alberto Morales Avendaño"
+          git config user.email "cmoralesavendano6@gmail.com"
+          git add activity.svg languages.svg
+          git commit -qm "Update profile stats"
+          git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" stats
