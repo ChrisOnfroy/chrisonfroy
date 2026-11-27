@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hola, welcome! I'm Cristian Morales, Full Stack developer" width="100%" />
+<img src="assets/banner.svg" alt="Welcome to my profile. Cristian Morales, Full Stack Developer" width="100%" />
 
 <br/><br/>
 
@@ -9,84 +9,84 @@
 
 <br/><br/>
 
-<a href="#-a-bit-about-me">About me</a> &nbsp;•&nbsp; <a href="#-projects">Projects</a> &nbsp;•&nbsp; <a href="#-my-toolbox">Toolbox</a> &nbsp;•&nbsp; <a href="#-lets-connect">Contact</a>
+<a href="#a-bit-about-me">About me</a> &nbsp;•&nbsp; <a href="#projects">Projects</a> &nbsp;•&nbsp; <a href="#my-toolbox">Toolbox</a> &nbsp;•&nbsp; <a href="#lets-connect">Contact</a>
 
 </div>
 
-## 👋 A bit about me
+## A bit about me
 
 <div align="center">
 
-I'm glad you stopped by. Grab a coffee ☕ and look around.
+**Thank you for visiting.** Here you'll find the projects I've worked on, the technologies behind them and what I'm currently learning.
 
 </div>
 
 <div align="center">
-  <img src="assets/about-me.svg" alt="👋 Who I am: I&#x27;m a Full Stack developer and Systems Engineering student. I enjoy turning complex requirements into clear, well-structured software: clean REST APIs on the backend and friendly React interfaces on the frontend." width="840" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="assets/about-build.svg" alt="🧱 How I build: Clean Architecture, SOLID and code that is easy to test and maintain." width="840" />
+  <img src="assets/about-me.svg" alt="Who I am: I&#x27;m a Full Stack developer and Systems Engineering student. I enjoy turning complex requirements into clear, well-structured software: clean REST APIs on the backend and friendly React interfaces on the frontend." width="840" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="assets/about-learning.svg" alt="🌱 What I&#x27;m learning: Microsoft Azure: App Service, Azure SQL and DevOps pipelines. Also testing and CI/CD." width="840" />
+  <img src="assets/about-build.svg" alt="How I build: Clean Architecture, SOLID and code that is easy to test and maintain." width="840" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="assets/about-study.svg" alt="📚 Where I study: Systems Engineering at Unisalamanca and the Backend Development specialization at Riwi." width="840" />
+  <img src="assets/about-learning.svg" alt="What I&#x27;m learning: Microsoft Azure: App Service, Azure SQL and DevOps pipelines. Also testing and CI/CD." width="840" />
 </div>
 <br/>
 
-## 🚀 Projects
+<div align="center">
+  <img src="assets/about-study.svg" alt="Where I study: Systems Engineering at Unisalamanca and the Backend Development specialization at Riwi." width="840" />
+</div>
+<br/>
+
+## Projects
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><img src="assets/project-proyectandtask.svg" alt="📋 Proyectandtask: Project and task management API. Each user sees only their own work and can track progress per project. Includes unit and integration tests, plus a GitHub Actions pipeline to Azure. (.NET 10, PostgreSQL, JWT, xUnit, Testcontainers)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><img src="assets/project-proyectandtask.svg" alt="Proyectandtask: Project and task management API. Each user sees only their own work and can track progress per project. Includes unit and integration tests, plus a GitHub Actions pipeline to Azure. (.NET 10, PostgreSQL, JWT, xUnit, Testcontainers)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/ProyectoAndTarea.Backend"><b>View code →</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><img src="assets/project-skillhub.svg" alt="🎓 SkillHub: Enrollment platform for in-person workshops: capacity limits, schedule overlap checks, bulk Excel enrollment and PDF certificates. (.NET 10, Clean Architecture, DDD, React, TypeScript)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><img src="assets/project-skillhub.svg" alt="SkillHub: Enrollment platform for in-person workshops: capacity limits, schedule overlap checks, bulk Excel enrollment and PDF certificates. (.NET 10, Clean Architecture, DDD, React, TypeScript)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/skillhub.Backend"><b>Backend →</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/skillhub.Frontend"><b>Frontend →</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><img src="assets/project-canchero.svg" alt="⚽ Canchero: API to find sports fields, manage venues and handle bookings, with role-based access and location search through OpenStreetMap. (.NET 10, EF Core, PostgreSQL, Identity + JWT)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><img src="assets/project-canchero.svg" alt="Canchero: API to find sports fields, manage venues and handle bookings, with role-based access and location search through OpenStreetMap. (.NET 10, EF Core, PostgreSQL, Identity + JWT)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/Canchero.Backend"><b>View code →</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><img src="assets/project-firmeza.svg" alt="🏗️ Firmeza: Sales and inventory API with a customer storefront: product catalog, shopping cart, stock control and email receipts. (.NET 10, React 19, Tailwind CSS, Docker)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><img src="assets/project-firmeza.svg" alt="Firmeza: Sales and inventory API with a customer storefront: product catalog, shopping cart, stock control and email receipts. (.NET 10, React 19, Tailwind CSS, Docker)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Backend"><b>Backend →</b></a> &nbsp;·&nbsp; <a href="https://github.com/ChrisOnfroy/FirmezaProyecto.Frontend"><b>Frontend →</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><img src="assets/project-taskapi.svg" alt="☁️ TaskApi: Task API with a rich domain model, designed for Azure App Service and Azure SQL using Managed Identity, so the database needs no stored password in Azure. (.NET 10, Azure, Entra ID, FluentValidation)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><img src="assets/project-taskapi.svg" alt="TaskApi: Task API with a rich domain model, designed for Azure App Service and Azure SQL using Managed Identity, so the database needs no stored password in Azure. (.NET 10, Azure, Entra ID, FluentValidation)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/TaskApi.Backend"><b>View code →</b></a>
 </div>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ChrisOnfroy/Emotians"><img src="assets/project-emotians.svg" alt="😊 Emotians: Real-time facial expression recognition from a webcam, with models trained from scratch and a web API. Built with Juan Benavides. (Python, PyTorch, OpenCV, FastAPI)" width="840" /></a>
+  <a href="https://github.com/ChrisOnfroy/Emotians"><img src="assets/project-emotians.svg" alt="Emotians: Real-time facial expression recognition from a webcam, with models trained from scratch and a web API. Built with Juan Benavides. (Python, PyTorch, OpenCV, FastAPI)" width="840" /></a>
   <br/>
   <a href="https://github.com/ChrisOnfroy/Emotians"><b>View code →</b></a>
 </div>
 <br/>
 
 <details>
-<summary><b>📂 More projects and practice work</b></summary>
+<summary><b>More projects and practice work</b></summary>
 <br/>
 
 <div align="center">
@@ -109,7 +109,7 @@ I'm glad you stopped by. Grab a coffee ☕ and look around.
 
 </details>
 
-## 🧰 My toolbox
+## My toolbox
 
 <div align="center">
   <img src="assets/toolbox-backend.svg" alt="Backend: ASP.NET Core Web API · Entity Framework Core · LINQ · JWT · Swagger · xUnit" width="840" />
@@ -146,18 +146,18 @@ I'm glad you stopped by. Grab a coffee ☕ and look around.
 </div>
 <br/>
 
-## 📈 GitHub activity
+## GitHub activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ChrisOnfroy/chrisonfroy/stats/activity.svg" alt="GitHub activity" width="420" />
   <img src="https://raw.githubusercontent.com/ChrisOnfroy/chrisonfroy/stats/languages.svg" alt="Languages in public repos" width="420" />
 </div>
 
-## 🍿 Beyond code
+## Beyond code
 
 I'm a big Marvel Cinematic Universe fan. My favorites: *Avengers: Endgame*, *Spider-Man: No Way Home* and *Captain America: The Winter Soldier*. Tell me yours!
 
-## 🤝 Let's connect
+## Let's connect
 
 <div align="center">
 
@@ -168,6 +168,6 @@ Have a project, an opportunity or just want to talk about code (or Marvel)? My i
 
 <br/><br/>
 
-<sub>Thanks for visiting. Come back soon! 🧡</sub>
+<sub>I appreciate your visit.</sub>
 
 </div>
